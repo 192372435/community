@@ -2,11 +2,13 @@
 Spring Boot 项目
 
 ## 资料
-https://spring.io/guides
+[SpringBoot 文档]https://spring.io/guides
 
-https://spring.io/guides/gs/serving-web-content
+[SpringBoot-web 文档]https://spring.io/guides/gs/serving-web-content
 
-https://developer.github.com/v3/guides/managing-deploy-keys/#deploy-keys
+[Github 获取上传key文档]https://developer.github.com/v3/guides/managing-deploy-keys/#deploy-keys
+
+[Github 开发者文档]https://github.com/settings/apps
 
 ## 工具
 https://github.com
