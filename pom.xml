@@ -64,6 +64,14 @@
 			<version>3.3.7</version>
 		</dependency>
 
+		<!-- 引入lombok的jar，需要先安装lombok插件，开启@Data注解，可以不用自己写tostring，get，set方法 -->
+		<dependency>
+			<groupId>org.projectlombok</groupId>
+			<artifactId>lombok</artifactId>
+			<version>1.18.10</version>
+			<scope>provided</scope>
+		</dependency>
+
 		<!-- https://mvnrepository.com/artifact/com.squareup.okhttp3/okhttp -->
 		<dependency>
 			<groupId>com.squareup.okhttp3</groupId>
